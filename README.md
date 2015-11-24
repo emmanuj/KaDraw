@@ -10,7 +10,7 @@ Before you can start you need to install the following software packages:
 
 - Scons (http://www.scons.org/)
 - Argtable (http://argtable.sourceforge.net/)
-- Cairo (http://http://cairographics.org/)
+- Cairo (http://cairographics.org/)
 
 Once you installed the packages, just type ./compile.sh.
 
