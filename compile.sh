@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e # exit the script at the point any of the commands below fails
+
 rm -rf deploy
 
 scons program=kadraw variant=optimized -j 8 
